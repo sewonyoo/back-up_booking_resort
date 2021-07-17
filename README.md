@@ -15,16 +15,16 @@
 
 - 리조트 추가
 ```
-http localhost:8082/resorts resortName="Jeju" resortType="Hotel" resortPrice=100000 resortStatus="Available" resortPeriod="7/23~25"
-http localhost:8082/resorts resortName="Seoul" resortType="Hotel" resortPrice=200000 resortStatus="Available" resortPeriod="8/23~25"
+http localhost:8082/resorts resortName="Jeju" resortType="Hotel" resortPrice=100000 resortStatus="Available" resortPeriod="7/29~30"
+http localhost:8082/resorts resortName="Seoul" resortType="Hotel" resortPrice=200000 resortStatus="Available" resortPeriod="8/04~05"
 http localhost:8082/resorts resortName="Busan" resortType="Pention" resortPrice=80000 resortStatus="Available" resortPeriod="9/23~25"
 ```
 
 - 예약 및 결제요청 확인
 ```
-http localhost:8088/reservations resortId=1 memberName="sim sang joon"
-http localhost:8088/reservations resortId=2 memberName="sung jae kim"
-http localhost:8088/reservations resortId=3 memberName="kill dong hong"
+http localhost:8088/reservations resortId=1 memberName="kim sia"
+http localhost:8088/reservations resortId=2 memberName="yoo sewon"
+http localhost:8088/reservations resortId=3 memberName="kim young"
 
 http localhost:8088/payments  // 결제List 확인
 ```
