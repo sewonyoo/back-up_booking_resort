@@ -47,6 +47,10 @@ http localhost:8082/reservations/3
 // 리조트 예약가능: resortStatus=Available 확인
 http localhost:8081/resorts/3
 ```
+--->추가
+// 바우처 무효: voucherStatus=Invalid 확인
+http localhost:8088/vouchers/2
+
 
 - 예약 취소 시, 결제/바우처 상태값 변경 확인
 ```
