@@ -124,7 +124,7 @@ http localhost:8088/vouchers/2
 
 
 ## Event Storming 결과
-* MSAEz 로 모델링한 이벤트스토밍 결과: http://www.msaez.io/#/storming/Rk7HwUkaXvX3C7EArWnMpnml68j1/share/4992a1785df30cc101b0e57f3400fa2d
+* MSAEz 로 모델링한 이벤트스토밍 결과: http://www.msaez.io/#/storming/e871JhG0OxcZNF58i3d5r1UX6di2/41ea8f5101b55f3d253f4dc687d52451
 
 
 ### 이벤트 도출
