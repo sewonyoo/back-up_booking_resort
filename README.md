@@ -150,7 +150,7 @@ http localhost:8088/vouchers/2
 <img width="994" alt="image" src="https://user-images.githubusercontent.com/85722729/125240556-3bb5d700-e325-11eb-9bcf-d9c4d4d08e32.png">
 
 ### 완성된 모형
-<img width="1113" alt="image" src="https://user-images.githubusercontent.com/85722851/125246650-0614ec00-e32d-11eb-8129-963e5dab211d.png">
+<img width="1113" alt="image" src="https://user-images.githubusercontent.com/85722729/126716548-060efc23-a69b-4648-97a9-666c3b359fb2.png">
 
 - View Model 추가
 - 도메인 서열
