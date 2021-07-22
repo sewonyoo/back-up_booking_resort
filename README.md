@@ -161,7 +161,7 @@ http localhost:8088/vouchers/2
 
 ## 헥사고날 아키텍처 다이어그램 도출
     
-![image](https://user-images.githubusercontent.com/85722729/125151798-bcd56880-e183-11eb-876b-074a02d94116.png)
+![image](https://user-images.githubusercontent.com/85722729/126720418-a448ce16-aee1-43ab-bfa6-6b830e2efdbd.png)
 
 
 
